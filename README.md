@@ -1,6 +1,6 @@
 # VehicleSim
 
-Developed with Unreal Engine 5,
+Developed with Unreal Engine.
 For gameplay video:
 https://www.youtube.com/watch?v=Hgw0bLTZ790&list=PL8pigdE7Oeb3couSwPXJSrcNjad9NlDSR&index=1
 
