@@ -11,4 +11,4 @@ The game can be played both with mouse and keyboard and with gamepad. It contain
 All assets were purchased from the Unreal Engine Marketplace and Quixel Bridge.
 
 Other gameplay videos from my Games:
-https://www.youtube.com/watch?v=Hgw0bLTZ790&list=PL8pigdE7Oeb3couSwPXJSrcNjad9NlDSR
+https://www.youtube.com/watch?v=5CH33vElWk0&list=PL8pigdE7Oeb3couSwPXJSrcNjad9NlDSR&index=2
